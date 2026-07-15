@@ -12,7 +12,8 @@ Data preprocessing and feature engineering.
 Machine Learning model trained using Scikit-learn.
 Real-time prediction based on user input.
 Simple and responsive interface.
-Tech Stack
+
+Tech Stack:
 
 Python
 Flask
@@ -43,4 +44,5 @@ Improve prediction accuracy using advanced Machine Learning algorithms.
 Deploy the application on a cloud platform.
 Add user authentication and application history.
 Integrate real-time database support.
-#TEAM MEMBERS Sathuluri V S S Keerthana Sarvani Konakanchi sai sirisha Syed Fayaz# Smartbridge-Credit-Card-Approval-Prediction
+#TEAM MEMBERS 
+Sathuluri V S S Keerthana Sarvani, Konakanchi sai sirisha ,Syed Fayaz # Smartbridge-Credit-Card-Approval-Prediction

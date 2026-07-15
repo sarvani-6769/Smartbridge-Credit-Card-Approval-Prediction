@@ -38,11 +38,13 @@ Clone the repository.
 Install the required dependencies: pip install -r requirements.txt
 Run the Flask application: python app.py
 Open the application in your browser.
-Future Enhancements
+
+Future Enhancements:
 
 Improve prediction accuracy using advanced Machine Learning algorithms.
 Deploy the application on a cloud platform.
 Add user authentication and application history.
 Integrate real-time database support.
-#TEAM MEMBERS 
+
+#TEAM MEMBERS :
 Sathuluri V S S Keerthana Sarvani, Konakanchi sai sirisha ,Syed Fayaz # Smartbridge-Credit-Card-Approval-Prediction
